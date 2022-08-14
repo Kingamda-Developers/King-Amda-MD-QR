@@ -1,0 +1,1 @@
+var _0x8630=["\x6D\x6F\x6E\x67\x6F\x6F\x73\x65","\x65\x78\x70\x6F\x72\x74\x73","\x75\x73\x65\x72\x73","\x6D\x6F\x64\x65\x6C"];const mongoose=require(_0x8630[0]);const reqString={type:String,required:true};const userSchema=mongoose.Schema({id:reqString,sessiondata:reqString});module[_0x8630[1]]= mongoose[_0x8630[3]](_0x8630[2],userSchema)
